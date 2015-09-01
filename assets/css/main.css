@@ -1945,14 +1945,15 @@
 	}
 
 		.item header {
-			background: #fff;
+			background: #DBBFDB;
 			margin: 0;
 			padding: 1em 0 1em 0;
-			font-size: 0.8em;
+			font-size: 0.9em;
 		}
 
 			.item header h3 {
 				font-size: 1em;
+				color: #000;
 			}
 
 /* Icons */
